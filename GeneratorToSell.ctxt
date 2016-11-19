@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=thedescription\ Size\ Fuelcapacity\ theprice
+comment0.target=GeneratorToSell(java.lang.String,\ java.lang.String,\ java.lang.String,\ int)
+comment1.params=
+comment1.target=int\ getprice()
+comment2.params=
+comment2.target=java.lang.String\ getdateOfSell()
+comment3.params=
+comment3.target=int\ getdiscount()
+comment4.params=
+comment4.target=int\ gettotalCost()
+comment5.params=
+comment5.target=boolean\ getsold()
+comment6.params=newprice
+comment6.target=void\ setprice(int)
+comment7.params=thecustomersname\ dateOfSel\ discount
+comment7.target=void\ sellingGenerator(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment8.params=
+comment8.target=void\ theDetails()
+numComments=9
